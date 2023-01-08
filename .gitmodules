@@ -1,0 +1,4 @@
+[submodule "themes/next"]
+    path = themes/next
+[submodule "themes/next-reload"]
+    path = themes/next-reload
